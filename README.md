@@ -1,5 +1,7 @@
 Purpose: I was inspired by the videogame called Noita which is awesome particle physics.
 
+How to run: "python main.py"
+
 To-Do:
   - Implement gravity
   - Explosives
