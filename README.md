@@ -1,6 +1,6 @@
 <img width="1342" alt="Screenshot 2024-04-22 at 3 55 33 PM" src="https://github.com/trumanyardley/ParticleSim/assets/19740076/53d9706c-fc68-4f28-89ce-69ecd29ec8a6">
 
-Purpose: I was inspired by the videogame called Noita which is awesome particle physics.
+Purpose: I was inspired by the videogame called Noita which has awesome particle physics.
 
 How to run: "python main.py"
 
