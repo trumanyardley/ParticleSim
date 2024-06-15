@@ -12,7 +12,7 @@ class Water(Particle):
     def update(self, cells):
         max_rows = len(cells)
         max_cols = len(cells[0])
-        #check if the particle is even movable
+        #check if the particle is movable
         if self.isMovable:
             #randomize whether it looks left or right first if it can't go down
             leftFirst = np.random.choice([True, False])
