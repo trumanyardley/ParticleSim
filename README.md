@@ -5,7 +5,7 @@ Purpose: I was inspired by the videogame called Noita which has awesome particle
 How to run: "python main.py"
 
 To-Do:
-  - Implement gravity
+  - Implement gravity physics wise
   - Explosives
   - Gases
   - Something weird going on with the water, behaviour not exactly where I want it at rn
@@ -17,3 +17,5 @@ Controls:
   - w: select water as particle to place
   - s: select sand as particle to place
   - r: select rock as particle to place
+  - up-arrow: increase placement area
+  - down-arrow: decrease placement area
